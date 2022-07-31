@@ -22,7 +22,7 @@
   <li>CSS Animations & Transitions</li>
 </ul>
 
-<a href="https://efficient-sloth-d85.notion.site/Grid-com-anima-es-5ea8b6051189446ebcda9914f7ac4dc9" target="_blank">Figma Layout</a>
+<a href="https://www.figma.com/file/wnFkuUWGII9MIpNkYxZ1E1/Explorer---Stage-03---Grid-com-anima%C3%A7%C3%B5es" target="_blank">Figma Layout</a>
 
 <h2 id="tech">Technologies</h2>
 
@@ -55,7 +55,7 @@
   <li>@keyframes no CSS</li>
   <li>Animações e Transições no CSS</li>
 </ul>
-<a href="https://efficient-sloth-d85.notion.site/Grid-com-anima-es-5ea8b6051189446ebcda9914f7ac4dc9" target="_blank">Layout do Figma</a>
+<a href="https://www.figma.com/file/wnFkuUWGII9MIpNkYxZ1E1/Explorer---Stage-03---Grid-com-anima%C3%A7%C3%B5es" target="_blank">Layout do Figma</a>
 
 <h2 id="tech-pt">Tecnologias</h2>
 
