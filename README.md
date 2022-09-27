@@ -7,7 +7,7 @@
 <h2 id="about">About the project</h2>
 
 <ul>
-  <p>In this challenge I had to create an application from a Figma layout in order to practice what was learned in this Stage 03.</p>  
+  <p>In this challenge I had to create an application from a Figma layout in order to practice what I learned in the Stage 03.</p>  
 </ul>
 <p>Main skills learned</p>
 <ul>
